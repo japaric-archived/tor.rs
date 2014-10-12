@@ -1,0 +1,9 @@
+[package]
+
+name = "tor"
+version = "0.0.0"
+authors = ["Jorge Aparicio <japaricious@gmail.com>"]
+
+[lib]
+name = "tor"
+plugin = true
